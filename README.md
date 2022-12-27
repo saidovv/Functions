@@ -90,7 +90,7 @@ access a function’s scope (its variables) even once the function has finished 
 
 (tajik language)
 
-Замыкания функсияе мебошад ки 
+Замыкания функсияе мебошад ки дар ретурни функсияи дигар меояд!
 
 
 
